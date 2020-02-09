@@ -15,27 +15,28 @@ role: Post doctoral researcher
 # Organizations/Affiliations
 organizations:
 - name: University Southern California
-  url: ""
+  url: "https://robotics.usc.edu/resl/people/96/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include design and analysis of algorithms for solving various problems in Swarm robotic and Multi-robotic systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multi-robot system
+- Swarm robotic
+- Applied Topology and Differential geometry
+- Network and Graph theory
 
 education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: Arizona State University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018
+  - course: M.S in Mechanical Engineering
+    institution: Arizona State University
+    year: 2018
+  - course: B.Tech in Civil Engineering
+    institution: National Institute of Technology Calicut, India
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +46,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1P4QgrcAAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ragesh_Ramachandran
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ragesh88
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "rageshku@usc.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ragesh Kumar is a Post Doctoral Research Scholar in the USC Viterbi Department of Computer Science at the University of Southern California. He has previously worked as a Graduate Research Associate in Dr. Spring Berman's research group at Arizona State University. His research interests include design and analysis of algorithms for solving various problems in Swarm robotic and Multi-robotic systems, Optimal and Nonlinear Control theory, Network and Graph theory, Applied Topology and Differential geometry, and Inverse problems.
