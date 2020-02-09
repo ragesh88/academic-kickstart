@@ -22,7 +22,7 @@ bio: My research interests include design and analysis of algorithms for solving
 
 interests:
 - Multi-robot system
-- Swarm robotic
+- Swarm robotics
 - Applied Topology and Differential geometry
 - Network and Graph theory
 
