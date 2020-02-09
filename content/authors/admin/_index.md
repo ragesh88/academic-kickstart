@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ragesh Kumar Ramachandran
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Mechanical Engineering
+    institution: Arizona State University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
