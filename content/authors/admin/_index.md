@@ -55,6 +55,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ragesh_Ramachandran
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?searchtype=author&query=Ramachandran%2C+R+K
 - icon: github
   icon_pack: fab
   link: https://github.com/ragesh88
