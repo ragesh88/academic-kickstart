@@ -26,16 +26,16 @@ abstract: We propose a method to maintain high resource availability in a networ
 summary: We propose a method to maintain high resource availability in a networked heterogeneous multi-robot system subject to resource failures.
 
 tags:
-- Source Themes
+- Resilient multi-robot system
 featured: true
 
 links:
-- name: Custom Link
+- name: IEEE
   url: https://ieeexplore.ieee.org/document/8968611
 url_pdf: http://robotics.usc.edu/publications/downloads/pub/1044/
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''

@@ -15,7 +15,7 @@ role: Post doctoral researcher
 # Organizations/Affiliations
 organizations:
 - name: University Southern California
-  url: "https://robotics.usc.edu/resl/people/96/"
+  url: "http://www.usc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include design and analysis of algorithms for solving various problems in Swarm robotic and Multi-robotic systems.
@@ -77,4 +77,8 @@ user_groups:
 - Visitors
 ---
 
-Ragesh Kumar is a Post Doctoral Research Scholar in the USC Viterbi Department of Computer Science at the University of Southern California. He has previously worked as a Graduate Research Associate in Dr. Spring Berman's research group at Arizona State University. His research interests include design and analysis of algorithms for solving various problems in Swarm robotic and Multi-robotic systems, Optimal and Nonlinear Control theory, Network and Graph theory, Applied Topology and Differential geometry, and Inverse problems.
+I'm a Post Doctoral Scholar at the [University of Southern California](http://www.usc.edu/)  in the [Robotics Embedded Systems Lab (RESL)](http://robotics.usc.edu/resl/) under supervision of Prof. [Gaurav Sukhatme](http://www-robotics.usc.edu/~gaurav/). Prior to joining USC, I finished my PhD at [Arizona State University](http://www.asu.edu/) in the [Autonomous Collective System Lab (ACS)](http://faculty.engineering.asu.edu/acs/) under supervision of [Dr. Spring Berman](http://faculty.engineering.asu.edu/acs/springberman). While at ASU, I worked on developing strategies for mapping environmental features of interest – specifically obstacles, collision-free paths, generating a metric map and estimating scalar density fields– in an unknown domain using data obtained by a swarm of resource constrained robots. Currently at RESL, I'm mostly involved with the development of mathematical models of sub-network failures, e.g., how the failure of one agent leads to a whole sub-network failure, and the design of reliable topologies with near-optimal tree-connectivity ensuring that high data rates, linking critical agents and the base, can be sustained. However, I have very broad interests in the fields of multi-robot systems, control theory and applied differential geometry.
+
+My research interests lie in active state estimation, control generation and machine learning for robotics. I investigate interactive perception, by which robots use their manipulation capabilities to gain the most useful perceptual information to model the world and inform intelligent decision making. The paradigm of generating motion to improve state estimation (interactive perception) and task execution (reinforcement learning) is applied throughout my work, in which I show that coupling perception and control together can be beneficial for both fields. More recently, I have been investigating deep reinforcement learning and its applications in robotics. I have evaluated my work on many different platforms such as [Crazyfiles](https://www.bitcraze.io/crazyflie-2/), [Turtlebot3 Burger](http://www.robotis.us/turtlebot-3/) and [Pheeno](https://acslaboratory.github.io/).
+
+Before joining ASU, I studied Civil Engineering at [National institue of Technology Calicut (NITC)](http://www.nitc.ac.in/). In May 2011, I graduated from NITC obtaining a Bachealor of Technology degree. I worked at [Gammon India](http://www.gammonindia.com/home/gammon-india.htm) for a few months after obtaining my undergraduate degree in Civil engineering.
