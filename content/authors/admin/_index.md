@@ -65,9 +65,9 @@ social:
   link: https://github.com/ragesh88
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rageshku@usc.edu"
@@ -83,4 +83,4 @@ I'm a Post Doctoral Scholar at the [University of Southern California](http://ww
 
 My research interests lie in active state estimation, control generation and machine learning for robotics. I investigate interactive perception, by which robots use their manipulation capabilities to gain the most useful perceptual information to model the world and inform intelligent decision making. The paradigm of generating motion to improve state estimation (interactive perception) and task execution (reinforcement learning) is applied throughout my work, in which I show that coupling perception and control together can be beneficial for both fields. More recently, I have been investigating deep reinforcement learning and its applications in robotics. I have evaluated my work on many different platforms such as [Crazyfiles](https://www.bitcraze.io/crazyflie-2/), [Turtlebot3 Burger](http://www.robotis.us/turtlebot-3/) and [Pheeno](https://acslaboratory.github.io/).
 
-Before joining ASU, I studied Civil Engineering at [National institue of Technology Calicut (NITC)](http://www.nitc.ac.in/). In May 2011, I graduated from NITC obtaining a Bachealor of Technology degree. I worked at [Gammon India](http://www.gammonindia.com/home/gammon-india.htm) for a few months after obtaining my undergraduate degree in Civil engineering. {{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+Before joining ASU, I studied Civil Engineering at [National institue of Technology Calicut (NITC)](http://www.nitc.ac.in/). In May 2011, I graduated from NITC obtaining a Bachealor of Technology degree. I worked at [Gammon India](http://www.gammonindia.com/home/gammon-india.htm) for a few months after obtaining my undergraduate degree in Civil engineering.
