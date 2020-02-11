@@ -37,9 +37,9 @@ tags:
 featured: true
 
 links:
-- name: IEEE
-  url: https://ieeexplore.ieee.org/document/8968611
-url_pdf: http://robotics.usc.edu/publications/downloads/pub/1044/
+- name: ASME
+  url: https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/7/1/011001/375110/Limit-Cycles-to-Enhance-Human-Performance-Based-on?redirectedFrom=fulltext
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
