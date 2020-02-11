@@ -26,7 +26,7 @@ abstract: This paper studies the problem of reconstructing a two-dimensional sca
 summary: This paper studies the problem of reconstructing a two-dimensional scalar field using measurements from a subset of a network with local communication between nodes.
 
 tags:
-- Source Themes
+- Network theory
 featured: true
 
 links:

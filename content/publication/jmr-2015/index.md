@@ -7,7 +7,7 @@ authors:
 - Jason Kerestes
 - Marc Mignolet
 - Philip New
-- Ragesh K. Ramachandran
+- admin
 - Sangram Redkar
 - Chase Wheeler
 date: "2015-02-01T00:00:00Z"
