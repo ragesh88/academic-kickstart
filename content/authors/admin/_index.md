@@ -17,8 +17,10 @@ organizations:
 - name: University Southern California
   url: "http://www.usc.edu/"
 
+
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include design and analysis of algorithms for solving various problems in Swarm robotic and Multi-robotic systems.
+bio: My research interests include design and analysis of algorithms for solving various problems in Swarm robotic and Multi-robotic systems. {{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 interests:
 - Multi-robot system
