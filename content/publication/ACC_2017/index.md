@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: IEEE
   url: https://ieeexplore.ieee.org/document/7963550
 url_pdf: http://faculty.engineering.asu.edu/acs/wp-content/uploads/2017/02/Ramachandran_ACC2017.pdf
 url_code: ''
