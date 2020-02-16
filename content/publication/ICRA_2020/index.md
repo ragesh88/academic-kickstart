@@ -5,7 +5,7 @@ authors:
 - Nicole Fronda
 - Gaurav S. Sukhatme
 date: "2019-10-01T00:00:00Z"
-doi: "10.1109/IROS40897.2019.8968611"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,9 +30,9 @@ tags:
 featured: true
 
 links:
-- name: IEEE
-  url:
-url_pdf: ''
+- name: Arxiv
+  url: https://arxiv.org/abs/1910.01300
+url_pdf: 'files/ICRA2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
