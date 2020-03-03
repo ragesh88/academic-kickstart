@@ -1,7 +1,7 @@
 ---
 title: 'ICRA 2020 two papers accepted'
 subtitle: ''
-summary: "Our papers [Resilience in multi-robot target tracking through reconfiguration](https://arxiv.org/pdf/1910.01300) and [Physics-based Simulation of Continuous-Wave LIDAR for Localization, Calibration and Tracking](https://arxiv.org/pdf/1912.01652) got accepted for ICRA 2020"
+summary: "Our papers [**Resilience in multi-robot target tracking through reconfiguration**](https://arxiv.org/pdf/1910.01300) and [**Physics-based Simulation of Continuous-Wave LIDAR for Localization, Calibration and Tracking**](https://arxiv.org/pdf/1912.01652) got accepted for ICRA 2020"
 authors:
 - admin
 tags:
@@ -30,3 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [Resilience]
 ---
+Our papers [**Resilience in multi-robot target tracking through reconfiguration**](https://arxiv.org/pdf/1910.01300) and [**Physics-based Simulation of Continuous-Wave LIDAR for Localization, Calibration and Tracking**](https://arxiv.org/pdf/1912.01652) got accepted for ICRA 2020
