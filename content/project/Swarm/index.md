@@ -32,9 +32,12 @@ slides: ""
 
 # TODO give detailed description below
 
-In recent years, there has been an increasing focus on the development of robot platforms that can be deployed in swarms to perform tasks autonomously over large
-spatial and temporal scales. In addition, swarms of nanoscale structures and devices
-such as nanoparticles, molecular machines, and magnetic nanocarriers are being developed for biomedical applications such as imaging and targeted drug delivery.
+Robotic swarms can potentially perform complicated tasks such as exploration
+and mapping at large space and time scales in a parallel and robust fashion. This
+project aims at developing strategies for mapping environmental features of interest – specifically
+obstacles, collision-free paths, generating a metric map and estimating scalar
+density fields– in an unknown domain using data obtained by a swarm of resource-constrained
+robots.
 
 # TODO complete the above
 ---

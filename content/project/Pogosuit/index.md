@@ -32,9 +32,7 @@ slides: ""
 
 # TODO give detailed description below
 
-In recent years, there has been an increasing focus on the development of robot platforms that can be deployed in swarms to perform tasks autonomously over large
-spatial and temporal scales. In addition, swarms of nanoscale structures and devices
-such as nanoparticles, molecular machines, and magnetic nanocarriers are being developed for biomedical applications such as imaging and targeted drug delivery.
+The human body is a mass spring system that oscillates up and down while running. We add energy to the running gait by oscillating a secondary mass in phase with the motion. A phase oscillator adds a bounded amount of energy to the limit cycle to make it easier to run. In an anti-phase oscillator, energy in the gait cycle is reduced and it is harder to run.
 
 # TODO complete the above
 ---
