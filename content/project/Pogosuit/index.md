@@ -1,6 +1,6 @@
 ---
 title: Pogosuit
-summary: Mapping an environment using a swarm of robots.
+summary: A phase oscillator based suit.
 tags:
 - Swarm mapping
 date: "2016-04-27T00:00:00Z"
