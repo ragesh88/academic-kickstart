@@ -1,7 +1,7 @@
 ---
 title: 'ICRA 2020 two papers accepted'
 subtitle: ''
-summary: 
+summary:
 authors:
 - admin
 tags:
@@ -28,6 +28,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Resilience]
+projects: []
 ---
 Our papers [**Resilience in multi-robot target tracking through reconfiguration**](https://arxiv.org/pdf/1910.01300) and [**Physics-based Simulation of Continuous-Wave LIDAR for Localization, Calibration and Tracking**](https://arxiv.org/pdf/1912.01652) got accepted for ICRA 2020
