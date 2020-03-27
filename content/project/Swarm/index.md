@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Swarm in nature
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-# TODO give detailed description below
+
 
 Robotic swarms can potentially perform complicated tasks such as exploration
 and mapping at large space and time scales in a parallel and robust fashion. This
@@ -39,5 +39,4 @@ obstacles, collision-free paths, generating a metric map and estimating scalar
 density fields– in an unknown domain using data obtained by a swarm of resource-constrained
 robots.
 
-# TODO complete the above
 ---

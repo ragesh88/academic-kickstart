@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Dr Sugar wearing the Pogosuit
   focal_point: Smart
 
 links:
@@ -30,9 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-# TODO give detailed description below
-
 The human body is a mass spring system that oscillates up and down while running. We add energy to the running gait by oscillating a secondary mass in phase with the motion. A phase oscillator adds a bounded amount of energy to the limit cycle to make it easier to run. In an anti-phase oscillator, energy in the gait cycle is reduced and it is harder to run.
 
-# TODO complete the above
 ---
