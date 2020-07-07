@@ -28,7 +28,7 @@ summary: We present a novel automated procedure for constructing a metric map of
 tags:
 - Swarm mapping
 
-featured: true
+featured: false
 
 links:
 - name: ArXiv

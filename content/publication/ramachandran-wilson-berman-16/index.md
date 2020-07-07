@@ -29,7 +29,7 @@ summary: We present a novel automated approach to quantifying the topological fe
 tags:
 - Swarm mapping
 
-featured: true
+featured: false
 
 links:
 - name: Springer

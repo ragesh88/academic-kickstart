@@ -16,7 +16,7 @@ summary: The human body is a mass spring system that oscillates up and down whil
 
 tags:
 - Pogosuit
-featured: true
+featured: false
 
 links:
 - name: ASME

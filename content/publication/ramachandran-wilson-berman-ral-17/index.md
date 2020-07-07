@@ -30,7 +30,7 @@ summary: We present a novel procedure for constructing a topological map of an u
 tags:
 - multi-robot system mapping
 
-featured: true
+featured: false
 
 links:
 - name: IEEE

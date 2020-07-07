@@ -27,7 +27,7 @@ summary: This paper studies the problem of reconstructing a two-dimensional scal
 
 tags:
 - Network theory
-featured: true
+featured: false
 
 links:
 - name: IEEE

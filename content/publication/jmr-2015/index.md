@@ -34,12 +34,12 @@ summary: Many human tasks such as walking, running, and hopping are repeating or
 
 tags:
 - Pogosuit
-featured: true
+featured: false
 
 links:
 - name: ASME
   url: https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/7/1/011001/375110/Limit-Cycles-to-Enhance-Human-Performance-Based-on?redirectedFrom=fulltext
-url_pdf: 
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
