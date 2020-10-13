@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In International Conference on Robotics and Automation
-publication_short: In ICRA
+publication: Accepted to appear in the proceedings of International Conference on Robotics and Automation
+publication_short: Accepted to appear in ICRA
 
 abstract: "We address the problem of maintaining resource availability in a networked multi-robot system performing distributed target tracking. In our model, robots are equipped with sensing and computational resources enabling them to track a target’s position using a Distributed Kalman Filter (DKF). We use the trace of each robot’s sensor measurement noise covariance matrix as a measure of sensing quality. When a robot’s sensing quality deteriorates, the systems communication graph is modified by adding edges such that the robot with deteriorating sensor quality may share information with other robots to improve the team’s target tracking ability. This computation is performed centrally and is designed to work without a large change in the number of active communication links. We propose two mixed integer semi-definite programming formulations (an ‘agent-centric’ strategy and a ‘team-centric’ strategy) to achieve this goal. We implement both formulations and a greedy strategy in simulation and show that the team centric strategy outperforms the agent-centric and greedy strategies."
 
@@ -39,7 +39,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/Nhu9-ABUNAw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

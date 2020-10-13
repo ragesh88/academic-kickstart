@@ -23,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Mechanisms and Robotics*"
-publication_short: In JMR
+publication: "Journal of Mechanisms and Robotics"
+publication_short: In JMR 2015
 
 
 abstract: Wearable robots including exoskeletons, powered prosthetics, and powered orthotics must add energy to the person at an appropriate time to enhance, augment, or supplement human performance. This “energy pumping” at resonance can reduce the metabolic cost of performing cyclic tasks. Many human tasks such as walking, running, and hopping are repeating or cyclic tasks where assistance is needed at a repeating rate at the correct time. By utilizing resonant energy pumping, a tiny amount of energy is added at an appropriate time that results in an amplified response. However, when the system dynamics is varying or uncertain, resonant boundaries are not clearly defined. We have developed a method to add energy at resonance so the system attains the limit cycle based on a phase oscillator. The oscillator is robust to disturbances and initial conditions and allows our robots to enhance running, reduce metabolic cost, and increase hop height. These methods are general and can be used in other areas such as energy harvesting.
@@ -39,7 +39,7 @@ featured: false
 links:
 - name: ASME
   url: https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/7/1/011001/375110/Limit-Cycles-to-Enhance-Human-Performance-Based-on?redirectedFrom=fulltext
-url_pdf:
+url_pdf: 'files/papers/jmr.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

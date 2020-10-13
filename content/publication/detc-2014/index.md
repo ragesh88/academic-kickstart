@@ -21,7 +21,7 @@ featured: false
 links:
 - name: ASME
   url: https://doi.org/10.1115/DETC2014-34406
-url_pdf:
+url_pdf: 'files/papers/ASME2014.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,7 +41,4 @@ projects:
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 ---

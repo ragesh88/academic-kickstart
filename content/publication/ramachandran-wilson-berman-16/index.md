@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Distributed Autonomous Robotic Systems*"
-publication_short: In DARS
+publication: "In the proceedings of Distributed Autonomous Robotic Systems"
+publication_short: In DARS 2016
 
 abstract: This paper presents a novel automated approach to quantifying the topological features of an unknown environment using a swarm of robots with local sensing and limited or no access to global position information. The robots randomly explore the environment and record a time series of their estimated position and the covariance matrix associated with this estimate. After the robots' deployment, a point cloud indicating the free space of the environment is extracted from their aggregated data. Tools from topological data analysis, in particular the concept of persistent homology, are applied to a subset of the point cloud to construct barcode diagrams, which are used to determine the numbers of different types of features in the domain. We demonstrate that our approach can correctly identify the number of topological features in simulations with zero to four features and in multi-robot experiments with one to three features.
 
@@ -66,8 +66,5 @@ projects:
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
 ---
