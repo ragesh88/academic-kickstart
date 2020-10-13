@@ -3,7 +3,7 @@ title: Motion planning on Manifolds
 summary: Motion planning on a sequence of Manifolds.
 tags:
 - Motion planning on Manifolds
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

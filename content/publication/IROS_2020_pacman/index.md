@@ -1,6 +1,6 @@
 ---
 title: "Pac-Man is Overkill"
-authors: ["Renato Fernando dos Santos", "admin", "Marcos A. M. Vieira", "Gaurav S. Sukhatme"]
+authors: ["Renato Fernando dos Santos", "admin", "Marcos Vieira", "Gaurav Sukhatme"]
 
 date: "2020-07-01T00:00:00Z"
 doi: ""
@@ -15,7 +15,7 @@ publishDate: "2020-07-00T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted to appear in IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication: Accepted to appear in IEEE/RSJ International Conference on Intelligent Robots and Systems 2020
 publication_short: Accepted to appear in IROS 2020
 
 abstract: "Pursuit-Evasion Game (PEG) consists of a team

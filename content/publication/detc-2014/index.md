@@ -5,7 +5,7 @@ authors : ["Jason Kerestes", "Thomas Sugar", "Thierry Flaven", "Matthew Holgate"
 publication_types : ["1"]
 abstract : The human body is a mass spring system that oscillates up and down while running. We add energy to the running gait by oscillating a secondary mass in phase with the motion. A phase oscillator adds a bounded amount of energy to the limit cycle to make it easier to run. In an anti-phase oscillator, energy in the gait cycle is reduced and it is harder to run.
 
-publication : "*38th Mechanisms and Robotics Conference*"
+publication : "38th Mechanisms and Robotics Conference 2014"
 doi : "10.1115/DETC2014-34406"
 
 # Schedule page publish date (NOT publication's date).

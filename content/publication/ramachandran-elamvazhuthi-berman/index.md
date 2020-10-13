@@ -5,20 +5,20 @@ authors:
 - Karthik Elamvazhuthi
 - Spring Berman
 
-date: "2018-01-01T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1007/978-3-319-51532-8_29"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2015-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In the proceedings of International Symposium on Robotics Research"
+publication: "In the proceedings of International Symposium on Robotics Research 2015"
 publication_short: In ISRR 2015
 
 abstract: This paper presents an approach to mapping a region of interest using observations from a robotic swarm without localization. The robots have local sensing capabilities and no communication, and they exhibit stochasticity in their motion.We model the swarm population dynamics with a set of advection-diffusion-reaction partial differential equations (PDEs). The map of the environment is incorporated into this model using a spatially-dependent indicator function that marks the presence or absence of the region of interest throughout the domain. To estimate this indicator function, we define it as the solution of an optimization problem in which we minimize an objective functional that is based on temporal robot data. The optimization is performed numerically offline using a standard gradient descent algorithm.Simulations show that our approach can produce fairly accurate estimates of the positions and geometries of different types of regions in an unknown environment.

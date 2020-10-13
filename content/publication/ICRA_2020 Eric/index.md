@@ -4,7 +4,7 @@ authors:
 - Eric Heiden
 - Ziang Liu
 - admin
-- Gaurav S. Sukhatme
+- Gaurav Sukhatme
 date: "2019-10-01T00:00:00Z"
 doi: ""
 
@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted to appear in the proceedings of International Conference on Robotics and Automation
-publication_short: Accepted to appear in ICRA
+publication: Accepted to appear in the proceedings of International Conference on Robotics and Automation 2020
+publication_short: Accepted to appear in ICRA 2020
 
 abstract: "Light Detection and Ranging (LIDAR) sensors play an important role in the perception stack of autonomous robots, supplying mapping and localization pipelines with depth measurements of the environment. While their accuracy outperforms other types of depth sensors, such as stereo or time-of-flight cameras, the accurate modeling of LIDAR sensors requires laborious manual calibration that typically does not take into account the interaction of laser light with different surface types, incidence angles and other phenomena that significantly influence measurements. In this work, we introduce a physically plausible model of a 2D continuous-wave LIDAR that accounts for the surface-light interactions and simulates the measurement process in the Hokuyo URG-04LX LIDAR. Through automatic differentiation, we employ gradient-based optimization to estimate model parameters from real sensor measurements. "
 

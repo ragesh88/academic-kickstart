@@ -2,8 +2,8 @@
 title: "Resilience by Reconfiguration: Exploiting Heterogeneity in Robot Teams"
 authors:
 - admin
-- James A. Preiss
-- Gaurav S. Sukhatme
+- James Preiss
+- Gaurav Sukhatme
 date: "2019-10-01T00:00:00Z"
 doi: ""
 
@@ -59,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- Resilience
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

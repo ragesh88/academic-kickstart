@@ -3,7 +3,7 @@
 title: "Sampling-Based Motion Planning on Manifold Sequences"
 authors:
 - Peter Englert
-- Isabel M. Rayas Fernandez
+- Isabel Rayas Fernandez
 - admin
 - Gaurav Sukhatme
 

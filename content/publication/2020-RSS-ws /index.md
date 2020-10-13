@@ -1,11 +1,11 @@
 ---
 title: "Learning Manifolds for Sequential Motion Planning"
 authors:
-- Isabel M. Rayas Fernandez
+- Isabel Rayas Fernandez
 - Giovanni Sutanto
 - Peter Englert
 - admin
-- Gaurav S. Sukhatme
+- Gaurav Sukhatme
 date: "2020-08-01T00:00:00Z"
 doi: ""
 

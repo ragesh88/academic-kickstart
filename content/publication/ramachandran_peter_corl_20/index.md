@@ -3,7 +3,7 @@
 title: "Learning Equality Constraints for Motion Planning on Manifolds"
 authors:
 - Peter Englert
-- Isabel M. Rayas Fernandez
+- Isabel Rayas Fernandez
 - admin
 - Gaurav Sukhatme
 

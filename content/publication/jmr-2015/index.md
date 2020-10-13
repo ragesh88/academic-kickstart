@@ -1,7 +1,7 @@
 ---
 title: "Limit Cycles to Enhance Human Performance Based on Phase Oscillators"
 authors:
-- Thomas G. Sugar
+- Thomas Sugar
 - Andrew Bates
 - Matthew Holgate
 - Jason Kerestes
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Mechanisms and Robotics"
+publication: "Journal of Mechanisms and Robotics 2015"
 publication_short: In JMR 2015
 
 

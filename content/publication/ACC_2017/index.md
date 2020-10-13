@@ -3,7 +3,6 @@ title: "The effect of communication topology on scalar field estimation by large
 authors:
 - admin
 - Spring Berman
-- Gaurav S. Sukhatme
 date: "2017-05-01T00:00:00Z"
 doi: "10.23919/ACC.2017.7963550"
 
@@ -17,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the proceedings of American Control Conference
+publication: In the proceedings of American Control Conference 2017
 publication_short: In ACC 2017
 
 abstract: This paper studies the problem of reconstructing a two-dimensional scalar field using measurements from a subset of a network with local communication between nodes. We consider the communication network of the nodes to form either a chain or a grid topology. We formulate the reconstruction problem as an optimization problem that is constrained by first-order linear dynamics on a large interconnected system. To solve this problem, we employ an optimization-based scheme that uses a gradient-based method with an analytical computation of the gradient. The main contribution of the paper is a derivation of bounds on the trace of the observability Gramian of the system, which can be used to quantify and compare the field estimation capabilities of chain and grid networks. A comparison based on a performance measure related to the $H^2$ norm of the system is also used to study the robustness of the network topologies. Our results are validated in simulation using both Gaussian scalar fields and actual ocean salinity data.

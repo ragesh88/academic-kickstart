@@ -17,7 +17,7 @@ publishDate: "2009-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the proceedings of International Conference on Simulation Modeling and Analysis
+publication: In the proceedings of International Conference on Simulation Modeling and Analysis 2009
 publication_short: In COSMA 2009
 
 abstract: "This paper proposes a new target locating

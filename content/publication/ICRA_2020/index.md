@@ -3,7 +3,7 @@ title: "Resilience in multi-robot target tracking through reconfiguration"
 authors:
 - admin
 - Nicole Fronda
-- Gaurav S. Sukhatme
+- Gaurav Sukhatme
 date: "2019-10-01T00:00:00Z"
 doi: ""
 
@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted to appear in the proceedings of International Conference on Robotics and Automation
-publication_short: Accepted to appear in ICRA
+publication: Accepted to appear in the proceedings of International Conference on Robotics and Automation 2020
+publication_short: Accepted to appear in ICRA 2020
 
 abstract: "We address the problem of maintaining resource availability in a networked multi-robot system performing distributed target tracking. In our model, robots are equipped with sensing and computational resources enabling them to track a target’s position using a Distributed Kalman Filter (DKF). We use the trace of each robot’s sensor measurement noise covariance matrix as a measure of sensing quality. When a robot’s sensing quality deteriorates, the systems communication graph is modified by adding edges such that the robot with deteriorating sensor quality may share information with other robots to improve the team’s target tracking ability. This computation is performed centrally and is designed to work without a large change in the number of active communication links. We propose two mixed integer semi-definite programming formulations (an ‘agent-centric’ strategy and a ‘team-centric’ strategy) to achieve this goal. We implement both formulations and a greedy strategy in simulation and show that the team centric strategy outperforms the agent-centric and greedy strategies."
 
