@@ -34,7 +34,7 @@ featured: false
 links:
 - name: Springer
   url: https://link.springer.com/chapter/10.1007/978-3-319-73008-0_1
-url_pdf: https://drive.google.com/open?id=0BzG35iM85CWNR3dRZGRmV0F4Rjg
+url_pdf: 'https://drive.google.com/open?id=0BzG35iM85CWNR3dRZGRmV0F4Rjg'
 url_code: ''
 url_dataset: ''
 url_poster: ''

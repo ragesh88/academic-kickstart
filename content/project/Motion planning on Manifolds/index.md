@@ -1,6 +1,6 @@
 ---
 title: Motion planning on Manifolds
-summary: Resilience in multi-robot system under task considerations.
+summary: Motion planning on a sequence of Manifolds.
 tags:
 - Motion planning on Manifolds
 date: "2016-04-27T00:00:00Z"

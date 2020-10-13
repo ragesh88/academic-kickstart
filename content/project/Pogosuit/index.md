@@ -2,8 +2,8 @@
 title: Pogosuit
 summary: A phase oscillator based suit.
 tags:
-- Swarm mapping
-date: "2016-04-27T00:00:00Z"
+- pogosuit
+date: "2013-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

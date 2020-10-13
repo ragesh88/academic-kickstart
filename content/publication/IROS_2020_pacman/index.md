@@ -15,8 +15,8 @@ publishDate: "2020-07-00T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE/RSJ International Conference on Intelligent Robots and Systems
-publication_short: In IROS
+publication: Accepted to appear in IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication_short: Accepted to appear in IROS 2020
 
 abstract: "Pursuit-Evasion Game (PEG) consists of a team
 of pursuers trying to capture one or more evaders. PEGs
@@ -53,7 +53,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'files/videos/PacMan_Is_Overkill.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -76,13 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

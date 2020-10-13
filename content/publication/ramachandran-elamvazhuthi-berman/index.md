@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Robotics Research*"
-publication_short: In ISRR
+publication: "In the proceedings of International Symposium on Robotics Research"
+publication_short: In ISRR 2015
 
 abstract: This paper presents an approach to mapping a region of interest using observations from a robotic swarm without localization. The robots have local sensing capabilities and no communication, and they exhibit stochasticity in their motion.We model the swarm population dynamics with a set of advection-diffusion-reaction partial differential equations (PDEs). The map of the environment is incorporated into this model using a spatially-dependent indicator function that marks the presence or absence of the region of interest throughout the domain. To estimate this indicator function, we define it as the solution of an optimization problem in which we minimize an objective functional that is based on temporal robot data. The optimization is performed numerically offline using a standard gradient descent algorithm.Simulations show that our approach can produce fairly accurate estimates of the positions and geometries of different types of regions in an unknown environment.
 
@@ -34,7 +34,7 @@ featured: true
 links:
 - name: Springer
   url: https://link.springer.com/chapter/10.1007/978-3-319-51532-8_29
-url_pdf: http://faculty.engineering.asu.edu/acs/wp-content/uploads/2015/08/Ramachandran_ISRR2015.pdf
+url_pdf: 'files/papers/ISRR2018.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,9 +65,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
 ---
