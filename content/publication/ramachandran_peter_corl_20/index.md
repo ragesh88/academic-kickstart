@@ -11,7 +11,7 @@ date: "2020-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,8 +20,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to Conference on Robot Learning"
-publication_short: Submitted to CoRL 2020
+publication: "Accepted to appear in Conference on Robot Learning 2020"
+publication_short: Accepted to appear in CoRL 2020
 
 abstract: "Constrained robot motion planning is a widely used technique to solve complex robot tasks. We consider the problem of learning representations of constraints from demonstrations with a deep neural network, which we call Equality Constraint Manifold Neural Network (ECoMaNN). The key idea is to learn a  level-set  function  of  the  constraint  suitable  for  integration  into  a  constrained sampling-based motion planner.  Learning proceeds by aligning subspaces in the network with subspaces of the data. We combine both learned constraints and analytically described constraints into the planner and use a projection-based strategy to find valid points.  We evaluate ECoMaNN on its representation capabilities ofconstraint manifolds, the impact of its individual loss terms, and the motions produced when incorporated into a planner. "
 
@@ -31,7 +31,7 @@ summary: We consider the problem of learning representations of constraints from
 tags:
 - applied differential geometry
 
-featured: False
+featured: True
 
 links:
 - name: Arxiv
