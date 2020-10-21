@@ -1,5 +1,5 @@
 ---
-title: 'ICRA 2020 two papers accepted'
+title: 'CoRL 2020 paper accepted'
 subtitle: ''
 summary:
 authors:
@@ -8,8 +8,8 @@ tags:
 - resilience
 categories:
 
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2020-10-15T00:00:00Z"
+lastmod: "2020-10-20T00:00:00Z"
 featured: True
 draft: false
 
@@ -30,4 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our papers [**Resilience in multi-robot target tracking through reconfiguration**]({{<ref "publication/ICRA_2020/index.md">}}) and [**Physics-based Simulation of Continuous-Wave LIDAR for Localization, Calibration and Tracking**]({{<ref "publication/ICRA_2020 Eric/index.md">}}) got accepted for ICRA 2020
+Our paper [**Learning Equality Constraints for Motion Planning on Manifolds**]({{<ref "publication/ramachandran_peter_corl_20/index.md">}}) got accepted for CoRL 2020.

@@ -30,4 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our papers [**Resilient Coverage: Exploring the Local-to-Global Trade-off**](https://arxiv.org/pdf/1910.01917) and {{% staticref "files/papers/IROS20_2733_MS.pdf" %}}**Pac-man is Overkill**{{% /staticref %}} got accepted for IROS 2020
+Our papers [**Resilient Coverage: Exploring the Local-to-Global Trade-off**]({{<ref "publication/IROS_2020/index.md">}}) and [**Pac-man is Overkill**]({{<ref "publication/IROS_2020_pacman/index.md">}}) got accepted for IROS 2020
