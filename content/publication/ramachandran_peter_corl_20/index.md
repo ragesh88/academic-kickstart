@@ -2,8 +2,9 @@
 
 title: "Learning Equality Constraints for Motion Planning on Manifolds"
 authors:
-- Peter Englert
+- Giovanni Sutanto
 - Isabel Rayas Fernandez
+- Peter Englert
 - admin
 - Gaurav Sukhatme
 
@@ -36,7 +37,7 @@ featured: True
 links:
 - name: Arxiv
   url: 'https://arxiv.org/abs/2009.11852'
-url_pdf: ''
+url_pdf: 'files/papers/CoRL_2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
