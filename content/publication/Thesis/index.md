@@ -35,7 +35,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://ragesh88.github.io/Thesis_presentation/'
 url_source: ''
 url_video: ''
 
