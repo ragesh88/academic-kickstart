@@ -17,8 +17,8 @@ publishDate: "2020-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Conditionally accepted to IEEE Transactions on Control of Network Systems 2020
-publication_short: Conditionally accepted to TCNS 2020
+publication: IEEE Transactions on Control of Network Systems 2020
+publication_short: TCNS 2020
 
 abstract: "We address the problem of maintaining resource availability in a networked multi-robot team performing distributed tracking of unknown number of targets in an environment of interest. Based on our model, robots are equipped with sensing and computational resources enabling them to cooperatively track a set of targets in an environment using a distributed Probability Hypothesis Density (PHD) filter. We use the trace of a robot's sensor measurement noise covariance matrix to quantify its sensing quality. While executing the tracking task, if a robot experiences sensor quality degradation, then robot team's communication network is reconfigured such that the robot with the faulty sensor may share information with other robots to improve the team's target tracking ability without enforcing a large change in the number of active communication links. A central system which monitors the team executes all the network reconfiguration computations. We consider two different PHD fusion methods in this paper and propose four different Mixed Integer Semi-Definite Programming (MISDP) formulations (two formulations for each PHD fusion method) to accomplish our objective. All four MISDP formulations are validated in simulation."
 
