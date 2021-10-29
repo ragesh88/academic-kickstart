@@ -16,11 +16,11 @@ publishDate: "2021-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems 2021
-publication_short: Submitted IROS 2021
+publication: Submitted to IEEE Robotics and Automation Letters 2021
+publication_short: Submitted to IEEE RA-L 2021
 
 abstract: We consider a scenario where a team of robots with heterogeneous sensors must track a set of hostile targets which induce sensory failures on the robots. In particular, the likelihood of failures depends on the proximity between the targets and the robots. We propose a control framework that implicitly addresses the competing objectives of performance maximization and sensor preservation (which impacts the future performance of the team).  Our framework consists of a predictive component---which accounts for the risk of being detected by the target, and a reactive component---which maximizes the performance of the team regardless of the failures that have already occurred. Based on a measure of the abundance of sensors in the team, our framework can generate aggressive and risk-averse robot configurations to track the targets. Crucially, the heterogeneous sensing capabilities of the robots are explicitly considered in each step, allowing for a more expressive risk-performance trade-off. Simulated experiments with induced sensor failures demonstrate the efficacy of the proposed approach.
 
