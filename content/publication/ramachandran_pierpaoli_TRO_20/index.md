@@ -7,7 +7,7 @@ authors:
 - Magnus Egerstedt
 - Gaurav Sukhatme
 
-date: "2020-04-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ summary: We propose a framework for resilience in a networked heterogeneous mult
 tags:
 - Resilient multi-robot system
 
-featured: False
+featured: True
 
 links:
 - name: Arxiv
