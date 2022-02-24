@@ -36,6 +36,8 @@ featured: True
 links:
 - name: Arxiv
   url: 'https://arxiv.org/abs/2008.01321'
+- name: IEEE
+  url: 'https://ieeexplore.ieee.org/xpl/Recentissue.jsp?punumber=8860'
 url_pdf: 'files/papers/TRO_special_2020.pdf'
 url_code: ''
 url_dataset: ''

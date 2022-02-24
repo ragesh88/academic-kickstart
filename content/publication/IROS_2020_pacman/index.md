@@ -46,6 +46,8 @@ tags:
 featured: false
 
 links:
+- name: IEEE
+  url: 'https://ieeexplore.ieee.org/document/9341274'
 url_pdf: 'files/papers/IROS20_2733_MS.pdf'
 url_code: ''
 url_dataset: ''

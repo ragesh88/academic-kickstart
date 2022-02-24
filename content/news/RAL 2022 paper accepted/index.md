@@ -30,4 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our paper [**Adaptive and Risk-Aware Target Tracking with Heterogeneous Robot Teams**]({{<ref "publication/RAL_2021/index.md">}}) got accepted for IEEE Robotics and Automation Letters and paper will be presented at ICRA 2022
+Our paper [**Adaptive and Risk-Aware Target Tracking with Heterogeneous Robot Teams**]({{<ref "publication/RAL_2021/index.md">}}) got accepted for IEEE Robotics and Automation Letters and paper will be presented at [**ICRA 2022**](https://icra2022.org/)

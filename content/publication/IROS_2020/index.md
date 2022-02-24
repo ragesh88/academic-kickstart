@@ -18,8 +18,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted to appear in the proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems 2020
-publication_short: Accepted to appear in IROS 2020
+publication: In the proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems 2020
+publication_short: In IROS 2020
 
 abstract: We propose a centralized control framework to select suitable robots from a heterogeneous pool and place them at appropriate locations to monitor a region for events of interest. In the event of a robot failure, the framework repositions robots in a user-defined local neighborhood of the failed robot to compensate for the coverage loss. The central controller augments the team with additional robots from the robot pool when simply repositioning robots fails to attain a user-specified level of desired coverage. The size of the local neighborhood around the failed robot and the desired coverage over the region are two objectives that can be manipulated to achieve a user-specified balance. We investigate the trade-off between the coverage compensation achieved through local repositioning and the computation required to plan the new robot locations. We also study the relationship between the size of the local neighborhood and the number of additional robots added to the team for a given user-specified level of desired coverage. We use extensive simulations and an experiment with a team of seven quadrotors to verify the effectiveness of our framework. Additionally, we show that to reach a high level of coverage in a neighborhood with a large robot population, it is more efficient to enlarge the neighborhood size, instead of adding additional robots and repositioning them.
 
@@ -33,6 +33,8 @@ featured: true
 links:
 - name: ArXiv
   url: https://arxiv.org/abs/1910.01917
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/9340871
 url_pdf: 'files/papers/IROS_2020.pdf'
 url_dataset: ''
 url_poster: ''
