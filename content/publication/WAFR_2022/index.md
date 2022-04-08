@@ -6,7 +6,7 @@ authors:
 - admin
 - Gaurav Sukhatme
 - Sertac Karaman
-date: "2022-02-02T00:00:00Z"
+date: "2022-03-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,8 +19,8 @@ publishDate: "2022-02-02T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to 15th International Workshop on the Algorithmic Foundations of Robotics
-publication_short: Submitted to WAFR 2022
+publication: Accepted to 15th International Workshop on the Algorithmic Foundations of Robotics
+publication_short: Accepted to WAFR 2022
 
 abstract: When is heterogeneity in the composition of an autonomous robotic team beneficial and when is it detrimental? We investigate and answer this question in the context of a minimally viable model that examines the role of heterogeneous speeds in perimeter defense problems, where defenders share a total allocated speed budget. We consider two distinct problem settings and develop strategies based on dynamic programming and on local interaction rules. We present a theoretical analysis of both approaches and our results are extensively validated using simulations. Interestingly, our results demonstrate that the viability of heterogeneous teams depends on the amount of information available to the defenders. Moreover, our results suggest a universality property across a wide range of problem parameters the optimal ratio of the speeds of the defenders remains nearly constant.
 
@@ -29,11 +29,14 @@ abstract: When is heterogeneity in the composition of an autonomous robotic team
 summary: We consider a scenario where a team of robots is tasked with protecting region of interest from external intruders.
 
 tags:
-- Resilient multi-robot system
-featured: false
+- Perimeter Defense
+featured: true
 
 links:
-url_pdf: ''
+- name: Arxiv
+  url: 'https://arxiv.org/abs/2202.10433'
+url_pdf: 'files/papers/WAFR_2022.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Resilience
+- Perimeter Defense
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

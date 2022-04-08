@@ -34,13 +34,18 @@ tags:
 featured: true
 
 links:
-url_pdf: ''
+- name: Arxiv
+  url: 'https://arxiv.org/abs/2105.03813'
+- name: IEEE
+  url: 'https://ieeexplore.ieee.org/document/9726858'
+url_pdf: 'files/papers/RAL_2022.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/sIHPMjeZ-j0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
