@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Post doctoral researcher
+role: Planning and Control Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University Southern California
-  url: "http://www.usc.edu/"
+- name: Zoox
+  url: "https://zoox.com/"
 
 
 
